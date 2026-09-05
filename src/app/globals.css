@@ -4,6 +4,9 @@
 /* ── Organic Precision Design System ── */
 
 :root {
+  --font-body: var(--font-manrope);
+  --font-heading: var(--font-display-serif);
+
   /* Primary */
   --color-primary: #0d631b;
   --color-on-primary: #ffffff;
@@ -126,8 +129,8 @@
   --color-on-background: var(--color-on-background);
 
   /* ── Font Families ── */
-  --font-geist: var(--font-geist-sans);
-  --font-inter: var(--font-inter);
+  --font-sans: var(--font-manrope);
+  --font-serif: var(--font-display-serif);
 
   /* ── Font Sizes (Organic Precision typography scale) ── */
   --text-display-lg: 64px;
@@ -188,6 +191,33 @@
   0% { transform: translateY(0px); }
   50% { transform: translateY(-10px); }
   100% { transform: translateY(0px); }
+}
+
+@layer base {
+  html {
+     font-family: var(--font-body), sans-serif;
+     scroll-behavior: smooth;
+  }
+
+  body {
+     font-family: var(--font-body), sans-serif;
+     text-rendering: optimizeLegibility;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .font-display-lg,
+  .font-headline-lg,
+  .font-headline-md {
+     font-family: var(--font-heading), serif;
+     letter-spacing: -0.04em;
+  }
 }
 
 /* ── Material Symbols ── */
