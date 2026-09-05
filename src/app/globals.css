@@ -204,6 +204,8 @@
      text-rendering: optimizeLegibility;
      -webkit-font-smoothing: antialiased;
      -moz-osx-font-smoothing: grayscale;
+     font-variant-numeric: lining-nums tabular-nums proportional-nums;
+     font-feature-settings: "lnum" 1, "tnum" 1, "kern" 1;
   }
 
   h1,
@@ -217,6 +219,18 @@
   .font-headline-md {
      font-family: var(--font-heading), serif;
      letter-spacing: -0.04em;
+     font-variant-numeric: lining-nums proportional-nums;
+     font-feature-settings: "lnum" 1, "pnum" 1, "kern" 1;
+  }
+
+  .numeric,
+  .stat-value,
+  .value,
+  [data-numeric="true"] {
+     font-family: var(--font-body), sans-serif;
+     font-variant-numeric: lining-nums tabular-nums proportional-nums;
+     font-feature-settings: "lnum" 1, "tnum" 1, "pnum" 1, "kern" 1;
+     letter-spacing: -0.05em;
   }
 }
 
