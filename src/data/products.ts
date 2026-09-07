@@ -50,7 +50,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     tag: "In Stock",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCf3Daixts0a8XmWXLYszIk5EJojhx5HnbNAcI-fo4Z-UcTPenrUHl5a8ca9Ml57X8Hd-dlQ1TFu9tmz_6U5C1jUsZKV_veIilQFUYI7BRLY6rKICFA3E_p5ynPe-nqHQU4UxTnsr4sfky5tfMC-2cMKBKXdVEUYWNuOVlYaVAPeBzJit3CFNSgaF79NaBWS3BkrEYN2ztjQStO7H0OfoiAvaC7HZsVz9OZQtCR-ftSxws161QsP6Bx",
+      "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=1200&q=85",
     description:
       "Grown with organic compost and pure well water in Oak Creek Valley. Rich in lycopene and bursting with vibrant, earthy sweetness.",
     nutrition: {
@@ -73,7 +73,7 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     tag: "Farm Fresh",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBd_Ldi8b2fHMPabmCitpYIPSmgc9FMX_lGr_FGUnSKht9Ld9tRgkz9fZpGl-mNyHO5CPuX7bmZwvZQ-RSZDiOroDtLPinGphQfi-tURdPoDwlKSgKNMpIRZgR0hrDcUuPi0RGSO0-75fQSurgd-KmGN662VFRrCG-GBo9qCSI1Otqklth41LEgJr7zmR7P-1_AZRZv_MAqydQUTvKz3udbm3p2qci2na79BzaVazFjXUmfLXgHLnej",
+      "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?auto=format&fit=crop&w=1200&q=85",
     description:
       "Hand-collected daily from free-roaming hens raised on organic pastures. Deep golden yolks and un-compromised natural flavor.",
     nutrition: {
@@ -95,7 +95,7 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 84,
     inStock: true,
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCZRFlOVsm4sa1MTOEWRndGorNif61PizZ0jKprWKPlw06LjcOK8m5mrz6lRu81FY03E-yyVbm1NueUv4y5gjv54b-kKeweaksmFaj9WPvqJWZwjVtz1tuwKhfmyRXtWLM0amCsOIM34LgEFcXZWcx5nHG4TFvGRQgeDWjSoue5zTB2J1eZLXQL2U166m5g4qPhq6GPPIKjqWh6XmveJrCfJKb4iL_62NBWkb1KhnVLmxzyhqxfFSfn",
+      "https://images.unsplash.com/photo-1524179091875-bf99a9a6af57?auto=format&fit=crop&w=1200&q=85",
     description:
       "Crisp, tender dinosaur kale packed with antioxidants, Vitamin A, and Vitamin K. Harvested daily at dawn.",
     nutrition: {
@@ -117,7 +117,7 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 162,
     inStock: true,
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBD7pmGKwUb91VXjOl47UfbDrnutT0_VTGDrczeixR9ku5d8WbMVWSo_PtePwxgK5Nusk7-Icg3IKFRdN6pybKTXVa8HuqZQBOuek4FJHDJ39tHEWNQeo7pdxstaSqC1qvqbB9gI_g1QfZwWHcK2v2GAWaNQFXqJyfQU2bMb3JBj-GLjoC3cFTcwzNIYFjE7ECxjTCK9HazROWmRAI1f8BlEYfufxKb-zFJzsZn-VK3BBZCwNDtCWi9",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=85",
     description:
       "Slow-fermented for 36 hours using ancient stone-ground wheat flour and pure wild yeast starter.",
     nutrition: {
@@ -139,7 +139,7 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 95,
     inStock: true,
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuBQcdYYD-YAY46yDSwI1oQ6gngzo26E3PDYswYRjCvSiIBjzNBzownvEpK8xMA4BQfilm9IKNLypQF2r0nG6lnCttNPg7TOCeiZXDtscHCP2bImaZkCFyhTqnLVcShqkHjP1n_-eSEy6BeYFuRYjIECrpRuzHeF5F8SudEb8IcAZmbLUCCs-pDS64ZucP43D-Yx_9tyY8SQYrSGE4ZGLbGlrfHHJ3TuHBdJOErrsd72hFqisaebYGXC",
+      "https://images.unsplash.com/photo-1445282768818-728615cc910a?auto=format&fit=crop&w=1200&q=85",
     description:
       "A colorful mixture of heirloom carrot varieties naturally rich in phytonutrients and minerals.",
     nutrition: {
@@ -161,7 +161,7 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 310,
     inStock: true,
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuB9kZbUzSGKfnD6OBMIqiWmAb0H0XQllp7z-pQtSY3d93PQT8gaaEBPk3cWWoEB8iYtswvbRJw_kbJOce1Nc9-ESfIJ36RLu0KM9dWgnLxAsPLfUAPE3evrdztPuKDxkXYkTVd6281oQ50w6Rodn6k_jpzaYzRwhrZDm9Ro-kdPtweYxpt2UovAOAahYq6whviy2oBZWbbRZ7LH0A3P6oaOffGs-2q_avSlALnlvcyhcuA2JJ58h5-8",
+      "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=1200&q=85",
     description:
       "Cold-pressed within 4 hours of harvest from single-estate olives. Notes of fresh grass and green pepper.",
     nutrition: {
@@ -181,7 +181,7 @@ export const FARMERS: Farmer[] = [
     quote:
       "Our family has been tending these fields for three generations. We believe the soil is a living legacy.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAjgrrNEJyk-lJp1EGO8nVMaM0u3HL4TDp4cJrEAGWta4CBCjAqs0y6mWGZYVm4L7BKbN31tXs4pFBGbXRuRXElUzlfB9jSsV-5jAxIlWZID7ebxpI1O8m_VVG_tu7AdQ0fAY3uyKoV5TVdelEa1g1QU2opnINOjr_UDKSukPrDqU3bvEGSAtjrfzNhAAqstgKisabXUCGx7plPB27EglFmj1r5re6bejx8Lcw8JA2puupVdfMaHYyY",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "farmer-2",
@@ -190,7 +190,7 @@ export const FARMERS: Farmer[] = [
     quote:
       "Technology allows us to grow the purest produce using 90% less water. It's the future of urban eating.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDNhg38bm5Liq5kKPXFXz7FL7n-iUV-WmOUBgKMqR0twBFXeiGzz-8J9nKa8CITPn-mUgNnQa03IT_BA_wXL9kxMT2A3onOsNC0seXdTFdBnfqw2YRLJIkkdD4p683Wigsc1k1IhDCxhw-719dF6_i2oV534g7FlUwS0NbtVURBEtJBE6M8IuugW3Lu72nmusmfVZuZ3LtRVMSdnraXi1FrFlL69x37SyPPIoNcA3HRkqxW73aDrR2Z",
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "farmer-3",
@@ -199,7 +199,7 @@ export const FARMERS: Farmer[] = [
     quote:
       "We don't use pesticides. We use ladybugs and patience. The flavor speaks for itself.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuATyBfZhgve6NPG5H1DpYQEhoxsJ3bEOwIffYKL9qCNaDKZW6uD6f30rxD-MKb8lzt_JH1BPBAWgD9yimzQjHATnquRTdkB1EXHAIcq-heaDkkDZh6iG_Yrmb5hHtMba-iItv6Q1ad5TYe20iOVPGEzf9SgWI7rad1hs6fP17V5jgX1kg8RqGu5j2HpXVwEJu5M8yKBaxHFGY-YZPb5yDENOGKXAewau0bMBIHa7lTF7FVXyfr67lS0",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=1200&q=85",
   },
 ];
 
@@ -209,7 +209,7 @@ export const CATEGORIES: Category[] = [
     name: "Fresh Produce",
     description: "Farm to table in less than 24 hours.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDNVttR10PMl0Occzh2kFdL27IQDuQ6t7qLPZ9ZEW24cBJ7B4O5WzAP21kjtpKUMuPSRzgy3miMVIFqbEXJnSQnZ3aN74OUtKG-zWAxlvFUoDUdKw6SfJIf7iRnQTC1767wSeKdyVPjY_RBoEdq2aQJMYBVbG3Sl0OZq5mKoUgfgqRjrxIaM0qbWQ-BgKfFNi6TJ22vgqMNdHPU_6k-Zwgu6j9eZwxZZedo2SE7ImUigqF2KBYPAS-2",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1600&q=85",
     colSpan: "md:col-span-2 md:row-span-2",
   },
   {
@@ -217,21 +217,21 @@ export const CATEGORIES: Category[] = [
     name: "Dairy & Eggs",
     description: "Pasture raised, cold-chain delivered.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuC6jylMVEU4MOdt-dDIzvBWxvKLMUSHEZqq80lgpA-7R87JxJWoo9z9uUKZka0P-3520Hz32LnnIsUHg3EB76CmPXFHmePrl4IS9vqK46NYkoZ0Pyteg1MWpU-Jt-notK5zX8Q5ZDuLJHIDhnpTZJK4TL4425SNqugLnKezMwwDaENaah-gegunQXpzEtz2PRhg-gwgHkCyCdKwAc_g6fU0w1xXYrH9-7vMo1qduF-X4jzlgHsh4dwz",
+      "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "cat-3",
     name: "The Pantry",
     description: "Artisanal oils, grains & natural preserves.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuDZmKn1EIQBAjeJbDTcG7OO0WBvG1geKdCC47blXXwVT7Y31Mo-Sp4vPn9Mjt9t-5Trn-vq4no3JOzfBqBYL6KxCopDFSwb24JcNQtCTCQfQuzAJ6OxCoCSd_9ootrqBJQMAuIFf_04S_bl8DI4damNWokflCV5u8PkWbXQUt3OEiGwB8vW7hsImyhXJsTVkiXaiPwMnkFfcXSHasAFLjaZlXZ75zRkqFQDf-6GDsy992jPMtjrCXV1",
+      "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=85",
   },
   {
     id: "cat-4",
     name: "Daily Bakery",
     description: "Baked at 4 AM, delivered by 8 AM.",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuAsy7zdMdGaDmvtxeaYwO2-iY7w0UmefOKUBtPsbdRbS_qZfN2rD4rISxatHtCjfqG3qyXnpNy3kb8Xr7VRPrDCR0arXeMnQAQGqJbbuZVvpRlN1CyYPDGP1eQrlJujRSu3OuS3ORO2txsZ_fLDUm5UDAsZuBecbNU_rKbUklc5dt8OjlMIBJACIPY4LIBVN-XkQKbfgWZAkymN11VQIPMEOPBM4QTISlw27TLw6dyJMimXW5txL3QG",
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1600&q=85",
     colSpan: "md:col-span-2",
   },
 ];
@@ -446,4 +446,3 @@ export const INITIAL_CUSTOMERS: AdminCustomer[] = [
     status: "Active",
   },
 ];
-

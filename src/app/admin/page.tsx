@@ -48,7 +48,7 @@ export default function AdminDashboardPage() {
     inStock: true,
     tag: "Fresh Harvest",
     image:
-      "https://lh3.googleusercontent.com/aida-public/AB6AXuCf3Daixts0a8XmWXLYszIk5EJojhx5HnbNAcI-fo4Z-UcTPenrUHl5a8ca9Ml57X8Hd-dlQ1TFu9tmz_6U5C1jUsZKV_veIilQFUYI7BRLY6rKICFA3E_p5ynPe-nqHQU4UxTnsr4sfky5tfMC-2cMKBKXdVEUYWNuOVlYaVAPeBzJit3CFNSgaF79NaBWS3BkrEYN2ztjQStO7H0OfoiAvaC7HZsVz9OZQtCR-ftSxws161QsP6Bx",
+      "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=1200&q=85",
     description: "Sustainably grown organic produce from certified local farmers.",
   });
 
@@ -82,7 +82,7 @@ export default function AdminDashboardPage() {
       tag: newProduct.tag || "New Item",
       image:
         newProduct.image ||
-        "https://lh3.googleusercontent.com/aida-public/AB6AXuCf3Daixts0a8XmWXLYszIk5EJojhx5HnbNAcI-fo4Z-UcTPenrUHl5a8ca9Ml57X8Hd-dlQ1TFu9tmz_6U5C1jUsZKV_veIilQFUYI7BRLY6rKICFA3E_p5ynPe-nqHQU4UxTnsr4sfky5tfMC-2cMKBKXdVEUYWNuOVlYaVAPeBzJit3CFNSgaF79NaBWS3BkrEYN2ztjQStO7H0OfoiAvaC7HZsVz9OZQtCR-ftSxws161QsP6Bx",
+        "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?auto=format&fit=crop&w=1200&q=85",
       description: newProduct.description || "Fresh organic product.",
     };
     setProductsList([created, ...productsList]);

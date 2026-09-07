@@ -89,7 +89,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-primary/10 blur-3xl rounded-full"></div>
               <div className="relative rounded-[40px] overflow-hidden shadow-2xl border border-outline-variant/30 aspect-[4/5] md:aspect-square">
                 <Image
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuDvOW_BAzusTqQiVqLNxt2oVE5g9cgSfPsxDRrYQNQ309H3zRCKGl3TlOsXK7JDTiSrB1-rWcecVS4zfSwy-aNG5utW7uGPy_sEz3pF7vQC7iUaQFXU88CEEdwbN3gCDrplgpsIehrVul-UsUzX5_YKcoB2pNqQ3uVDskZx8UaCc5X_gDocip-BIKKhI6iLERMDvBhprXrpgeOy-drXoWrGA5i0gflaiG6ob-3zYY8_JAeX_xm4m1qi"
+                  src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1600&q=90"
                   alt="Fresh organic produce crate with heirloom tomatoes and leafy kale"
                   fill
                   priority
